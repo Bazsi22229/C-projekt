@@ -1,0 +1,14 @@
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\bin\Debug\net10.0\KonyvProjekt.exe
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\bin\Debug\net10.0\KonyvProjekt.deps.json
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\bin\Debug\net10.0\KonyvProjekt.runtimeconfig.json
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\bin\Debug\net10.0\KonyvProjekt.dll
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\bin\Debug\net10.0\KonyvProjekt.pdb
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\KonyvProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\KonyvProjekt.AssemblyInfoInputs.cache
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\KonyvProjekt.AssemblyInfo.cs
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\KonyvProjekt.csproj.CoreCompileInputs.cache
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\KonyvProjekt.dll
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\refint\KonyvProjekt.dll
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\KonyvProjekt.pdb
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\KonyvProjekt.genruntimeconfig.cache
+C:\Users\nagyb\Documents\projekt\KonyvProjekt\obj\Debug\net10.0\ref\KonyvProjekt.dll
